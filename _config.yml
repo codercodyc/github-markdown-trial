@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+nav:
+  Home: README.md
+  Page2: Page2.md
+  
