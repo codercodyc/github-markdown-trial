@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
+project_title: "Cody Crawmer"
 nav:
   Home: README.md
   Page2: Page2.md
